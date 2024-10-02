@@ -55,3 +55,13 @@ public class DeleteMiddleNode {
 		}
 	}
 }
+
+/*
+Output
+Data to be deleted is c
+a
+b
+d
+e
+f
+*/

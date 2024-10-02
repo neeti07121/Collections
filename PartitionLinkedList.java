@@ -89,3 +89,7 @@ public class PartitionLinkedList {
 	}
 
 }
+
+/*
+ * Output: List after partition... 3 2 1 5 8 5 10
+ */

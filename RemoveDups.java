@@ -55,3 +55,6 @@ public class RemoveDups {
 	}
 
 }
+
+// Output
+// [12,13]

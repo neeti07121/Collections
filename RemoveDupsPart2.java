@@ -61,3 +61,7 @@ public class RemoveDupsPart2 {
 		}
 	}
 }
+
+// Output
+// 12
+// 14

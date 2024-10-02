@@ -55,3 +55,11 @@ public class ReturnKthToLast {
 	}
 
 }
+
+/*
+2th node to the last node is 14
+12
+13
+14
+15
+*/
