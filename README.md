@@ -7,4 +7,5 @@
   4. RemoveDupsPart2.java
   5. ReturnKthToLast.java
   6. SumLists.java
+  7. Palindrome.java
    
