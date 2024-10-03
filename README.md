@@ -6,7 +6,7 @@
   3. RemoveDups.java: Write code to remove duplicates from an unsorted linked list.
   4. RemoveDupsPart2.java: How would you solve the problem if a temporary buffer is not allowed?
   5. ReturnKthToLast.java: Implement an algorithm to find the kth to last element of a singly linked list.
-  6. SumLists.java
+  6. SumLists.java: You have 2 nos represented by a linked list, where each node contains a single digit. The digits are sotred in reverse        order, such that the 1's digit is at the head of the list. Write a function that adds the two numbers and returns the sum as a linked         list.
   7. Palindrome.java
   8. Intersection
   9. Loop Detection
