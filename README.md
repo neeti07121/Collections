@@ -8,5 +8,5 @@
   5. ReturnKthToLast.java: Implement an algorithm to find the kth to last element of a singly linked list.
   6. SumLists.java: You have 2 nos represented by a linked list, where each node contains a single digit. The digits are sotred in reverse        order, such that the 1's digit is at the head of the list. Write a function that adds the two numbers and returns the sum as a linked         list.
   7. Palindrome.java: Implement a function to check if a linked list is a palindrome.
-  8. Intersection
+  8. Intersection.java: Find the intersection in two single linked list.
   9. Loop Detection
