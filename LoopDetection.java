@@ -8,6 +8,10 @@ package linkedlistproblems;
 // The space complexity is O(1), since you are only using a fixed amount of extra space (the 2 pointers slow and fast and a flag variable). No 
 // additional data structures or arrays are used, so the space used is constant.
 
+
+// Note: To detect if a singly linked list has a loop(cycle) in Java, we can use Floyd's Cycle Detection Algorithm (also known as Tortoise & Hare Algorithm)
+// This algorithm uses two pointers, one moving slowly (one node at a time) and the other moving quickly (two nodes at a time). If the linked list
+// contains a loop, the fast pointer will 
 public class LoopDetection {
 	public static void main(String args[]) {
 		Node head = createNodes();
