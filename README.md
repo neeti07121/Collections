@@ -9,3 +9,4 @@
   6. SumLists.java
   7. Palindrome.java
   8. Intersection
+  9. Loop Detection
