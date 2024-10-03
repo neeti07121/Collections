@@ -1,7 +1,7 @@
 # Collections
 
 **Linked Lists Programs**
-  1. DeleteMiddleNode.java
+  1. DeleteMiddleNode.java: Implement an algorithm to delete a node in the middle
   2. PartitionLinkedList.java
   3. RemoveDups.java
   4. RemoveDupsPart2.java
