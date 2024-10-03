@@ -8,4 +8,4 @@
   5. ReturnKthToLast.java
   6. SumLists.java
   7. Palindrome.java
-   
+  8. Intersection
