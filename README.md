@@ -12,6 +12,6 @@
   8. **Intersection.java:** Find the intersection in two single linked list.
   9. **Loop Detection.java:**  Given a circular linked list, implement an algorithm that returns the node at the beginning of the loop.
 
-** Stack Programs **
+**Stack Programs**
 
   10. **StackImplTemplate.java:** Algorithm to implement a Stack. A stack can be implemented using a linked list, if items were added and removed from the same side.
