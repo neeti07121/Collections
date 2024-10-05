@@ -15,3 +15,4 @@
 **Stack Programs**
 
   10. **StackImplTemplate.java:** Algorithm to implement a Stack. A stack can be implemented using a linked list, if items were added and removed from the same side.
+  11. **MyQueue.java:** Algorithm to implement queue using a linked list, if items are removed and added from different side.
