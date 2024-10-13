@@ -17,3 +17,4 @@
   10. **StackImplTemplate.java:** Algorithm to implement a Stack. A stack can be implemented using a linked list, if items were added and removed from the same side.
   11. **MyQueue.java:** Algorithm to implement queue using a linked list, if items are removed and added from different side.
   12. **StackMin.java:** How would you design a stack which, in addition to push and pop, has a function min which returns the minimum element? Push, pop and min should all operate in O(1) time. Linked List Implementation.
+  13. **StackMinArray.java:** How would you design a stack which, in addition to push and pop, has a function min which returns the minimum element? Push, pop and min should all operate in O(1) time. Array Implementation.
