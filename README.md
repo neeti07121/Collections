@@ -19,3 +19,4 @@
   12. **StackMin.java:** How would you design a stack which, in addition to push and pop, has a function min which returns the minimum element? Push, pop and min should all operate in O(1) time. Linked List Implementation.
   13. **StackMinArray.java:** How would you design a stack which, in addition to push and pop, has a function min which returns the minimum element? Push, pop and min should all operate in O(1) time. Array Implementation.
   14. **StackOfPlates.java:** Implement different stack of plates with push and pop operation same as single stack working.
+  15. **MyQueueUsingStack.java:** Implement a MyQueue class which implements a queue using two stacks.
