@@ -22,3 +22,7 @@
   15. **MyQueueUsingStack.java:** Implement a MyQueue class which implements a queue using two stacks.
   16. **AnimalQueue.java:** Create the data structures to maintain the system and implement operations such as enqueue, dequeueAny, dequeueCat and dequeueDog.
   17. **SortStack.java:** Write a program to sort a stack that the smallest items are on the top.
+
+**Tree Programs**
+
+  1. **BinarySearchTree.java:**  Binary Search Tree operations: Insertion, Searching and Inorder Traversal.
