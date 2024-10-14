@@ -25,4 +25,4 @@
 
 **Tree Programs**
 
-  1. **BinarySearchTree.java:**  Binary Search Tree operations: Insertion, Searching and Inorder Traversal.
+  18. **BinarySearchTree.java:**  Binary Search Tree operations: Insertion, Searching and Inorder Traversal.
